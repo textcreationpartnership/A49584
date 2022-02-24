@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of earnestly contending for the faith a sermon preached at the Cathedral Church of St. Paul, before the Right Honourable the Lord Mayor and aldermen of the city of London, on Sunday, Sept. the 22th, there being that day an ordination by the Right Reverend the Lord Bishop of London / by James Lardner.</title>
+            <author>Lardner, James, b. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49584</idno>
+            <idno type="STC">Wing L436</idno>
+            <idno type="STC">ESTC R13861</idno>
+            <idno type="EEBO-CITATION">11837943</idno>
+            <idno type="OCLC">ocm 11837943</idno>
+            <idno type="VID">49775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 500:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of earnestly contending for the faith a sermon preached at the Cathedral Church of St. Paul, before the Right Honourable the Lord Mayor and aldermen of the city of London, on Sunday, Sept. the 22th, there being that day an ordination by the Right Reverend the Lord Bishop of London / by James Lardner.</title>
+                  <author>Lardner, James, b. 1670.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>License leaf faces title page.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Jude I, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Faith --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:49775:1"/>
+            <head>
+               <hi>Levett, Mayor.</hi> Jovis tertio die Octobr. <hi>1700.</hi> anno<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Regni Willielmi Tertii, Angl. &amp;c. duodecimo.</head>
+            <p>THIS Court doth deſire Mr. <hi>Lardner</hi> to Print his Sermon, preach'd at the Cathedral Church of St. <hi>Paul,</hi> on <hi>Sunday</hi> the Two and twentieth Day of <hi>September</hi> laſt, be<g ref="char:EOLhyphen"/>fore the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Aſhhurſt.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49775:1" rendition="simple:additions"/>
+            <p>
+               <hi>Of earneſtly contending for the Faith.</hi>
+            </p>
+            <p>A SERMON Preached at the Cathedral Church of St. <hi>PAUL,</hi> BEFORE The Right Honourable the LORD MAYOR AND ALDERMEN OF THE CITY of <hi>LONDON,</hi> On <hi>Sunday, Sept.</hi> the 22th.</p>
+            <p>THERE Being that Day an Ordination By the Right Reverend the Lord Biſhop of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>By</hi> JAMES LARDNER, <hi>M. A</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49775:2"/>
+            <pb facs="tcp:49775:2"/>
+            <head>To the Right Honourable Sir <hi>RICHARD LEVETT,</hi> Kt. LORD MAYOR; TO THE COURT of ALDERMEN; And the Right Worſhipful S<hi rend="sup">r</hi> 
+               <hi>CHARLES DUNCOMB,</hi> AND S<hi rend="sup">r</hi> 
+               <hi>JEFFREY JEFFREYS,</hi> LATE SHERIFFS OF THE CITY of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable and Worſhipful;</salute>
+            </opener>
+            <p>WHAT open Defiance hath of late been given to all the Sacred Myſteries of the Goſpel, what barefaced Oppoſition hath been made to the Chriſtian Faith, is well known, and is ſadly Lamented
+<pb facs="tcp:49775:3"/> by every ſerious and conſiderate Man. The labouring Preſs doth, almost every day, produce ſome ſly Pamphlet or other; the deſign of which, is to Un<g ref="char:EOLhyphen"/>dermine our most Holy Religion, and Ridicule and Scoff at all the Profeſſors of it: Nor do theſe things <hi>ſteal ſecret<g ref="char:EOLhyphen"/>ly</hi> into our Hands, or by their Privacy betray an inward Shame in the Au<g ref="char:EOLhyphen"/>thor, but every Page doth publickly declare, that the Publiſher of it is a profeſs'd Enemy to the Faith of Christ. The Oppoſition is made with ſo much Courage and Boldneſs, that a meer Stranger would hardly believe Chriſti<g ref="char:EOLhyphen"/>anity to be the Religion of our Country, or that the Goſpel had the Protection of the Law to guard it. The deſign therefore of the following Diſcourſe, is, to point out and diſcover ſome of theſe Adverſaries, and by ſhowing how <pb facs="tcp:49775:3"/> dangerous they are, to raiſe our Spirits, and call up that Courage which ſo well becomes thoſe, who ought to be the Aſſertors of it, and whoſe Duty it is to <hi>contend earneſtly</hi> for the Faith. That God would pleaſe to aſſiſt and protect thoſe who ſtand up vigorouſly in Defence of our most Holy Religion, and at last bring us all to an <hi>Unity in the Faith,</hi> is the hearty Prayer of,</p>
+            <closer>
+               <salute>Right Honourable and Worſhipful,</salute>
+               <signed>
+                  <hi>Your moſt Obedient, and Moſt Humble Servant,</hi> James Lardner.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49775:4"/>
+            <pb n="1" facs="tcp:49775:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>Epiſt. of St.</hi> Jude, <hi>Ver. 3. latter part.</hi>
+               </bibl>
+               <q>—And exhort you, that ye ſhould earneſtly contend for the Faith, which was once delivered to the Saints.</q>
+            </epigraph>
+            <p>THAT ye ſhould <hi>earneſtly contend</hi> for the Faith! Can then that Goſpel which was once deliver'd by the Prince of Peace meet with any ſo hardy and obſtinate as to gainſay and oppoſe it? That Goſpel, the very deſign of which, is to promote an univerſal Love and Charity; to join us all (as it were) in<g ref="char:EOLhyphen"/>to one common Houſhold, one Family: That Goſpel, which teaches me to look upon every Man as my Neighbour, my Friend, and my Brother; that obliges me to allow every Man a ſhare in my Heart, and admit him as Partner in my Love and Affections: That Goſpel, which is ſo well fitted for the Advancement of every Man's <hi>true</hi> Intereſt and Advantage, and which gives us a bleſſed Aſſurance, in conſequence of our Obe<g ref="char:EOLhyphen"/>dience, of an immortal Crown of Glory here<g ref="char:EOLhyphen"/>after. Can any one be ſo obſtinately, ſo wilfully blind, as not to ſee thoſe things which make for his <hi>eternal</hi> Peace, and not upon firſt ſight cloſe in
+<pb n="2" facs="tcp:49775:5"/> with, and embrace 'em? 'Tis ſtrange, that the effect of the Son of God's coming into the World, ſhould be,<note place="margin">
+                  <hi>St.</hi> Mat. 10.34.</note> 
+               <hi>not to ſend Peace, but a Sword;</hi> that the moſt tender and obliging offers, that even <hi>infinite</hi> Mercy did ever make, ſhould prove the occaſion of Strife and Contention, and ſet one Man at variance againſt another.</p>
+            <p>Yet this is our caſe, and every one who is ad<g ref="char:EOLhyphen"/>mitted within the Pale of the Chriſtian Church, engages himſelf in a continual Warfare; he enters, and <hi>lists</hi> himſelf into the Service of <hi>him,</hi> who is deſcribed to us under the Character of the <hi>Captain</hi> of our Salvation, <hi>the Head of the Church, that Army of the living God;</hi> he obliges himſelf to <hi>wreſtle, not only againſt Fleſh and Blood,</hi>
+               <note place="margin">Eph. 6.12,</note> but <hi>againſt Principali<g ref="char:EOLhyphen"/>ties and Powers, againſt the Rulers of the Darkneſs of this World, againſt ſpiritual Wickedneſſes in high Places;</hi> and his Adverſaries have ſo many ways to beſet him, that he muſt be continually upon his Guard; and to ſecure his Innocence, take to him <hi>the whole Armour of God,</hi>
+               <note place="margin">13.</note> 
+               <hi>that he may be able to withſtand in the evil day, and having done all, to stand.</hi> The Chriſtian Profeſſion is repreſented to us as a State of Warfare; and a manly Courage, Reſolution and Conſtancy, are qualifications which are neceſſary for every Profeſſor to carry con<g ref="char:EOLhyphen"/>ſtantly about him; we are not, in the leaſt, al<g ref="char:EOLhyphen"/>low'd to be Careleſs, Negligent and Supine, but are to <hi>ſight the good ſight,</hi> to <hi>endure hardſhips,</hi> to be <hi>ſtrong in the Lord,</hi> and <hi>earneſtly to contend for that Faith, which was once delivered to the Saints.</hi>
+            </p>
+            <pb n="3" facs="tcp:49775:5"/>
+            <p>Which was <hi>once</hi> delivered to the Saints; for there is no other Goſpel now to be expected, no other Rule by which we are to ſquare our Acti<g ref="char:EOLhyphen"/>ons; we are not to look for any ſtrange, <hi>new Light,</hi> nor for any other Methods of Salvation. 'Tis true,<note place="margin">Heb. 10.1.</note> the Law was indeed <hi>a ſhadow of good things to come,</hi> but now, ſince the <hi>Subſtance</hi> of the Faith hath been <hi>once</hi> fully revealed to us, by that Goſpel, <hi>which hath brought Life and Immor<g ref="char:EOLhyphen"/>tality to light,</hi> we are modeſtly and humbly to em<g ref="char:EOLhyphen"/>brace it, and take it as the only Rule both of our Faith and Practiſe; and <hi>though we,</hi>
+               <note place="margin">Gal. 1.8.</note> 
+               <hi>or an Angel from Heaven, preach any other Goſpel to you, than that which we have preached unto you, let him be ac<g ref="char:EOLhyphen"/>curſed.</hi>
+            </p>
+            <p>It would (I preſume) be altogether needleſs, to go about to prove, that by that <hi>Faith</hi> in the Text, which we are exhorted thus <hi>earneſtly</hi> to <hi>con<g ref="char:EOLhyphen"/>tend for,</hi> is to be underſtood the Chriſtian Reli<g ref="char:EOLhyphen"/>gion in general, <hi>viz.</hi> all thoſe Doctrines and Pre<g ref="char:EOLhyphen"/>cepts, as well as Articles of Belief, contain'd in that Goſpel which hath no leſs than the Son of God for its Author; for ſo is the word uſed <hi>Acts</hi> 6.7. 1 <hi>Tim.</hi> 4.1. and in ſeveral other places. The Faith of a Chriſtian, is the Religion of a Chri<g ref="char:EOLhyphen"/>ſtian; and to believe in Jeſus, is to become his Diſciple, and a Follower of his Doctrines; and, I doubt not, but that ſeeming difference between St. <hi>Paul</hi> and St. <hi>James,</hi> when one ſpeaks of Juſtification by Faith alone, and the other aſſerts good Works to be neceſſary in order thereunto, may very eaſi<g ref="char:EOLhyphen"/>ly be adjuſted, by a ſerious application of Mind,
+<pb n="4" facs="tcp:49775:6"/> and by conſidering the drift and deſign of each Apoſtle, in his ſeveral Epiſtle. So that all thoſe Controverſies, which have for a long time em<g ref="char:EOLhyphen"/>ploy'd the Pens of ſeveral (I hope <hi>well-meaning</hi>) Men, may be eaſily reconciled, and made up; for a <hi>truly</hi> pious Chriſtian Faith, will undoubtedly be productive of all thoſe <hi>good Works,</hi> to the perfor<g ref="char:EOLhyphen"/>mance of which our moſt holy Profeſſion obliges us. To proceed therefore further upon this Point, would be altogether needleſs; and I heartily wiſh it were as needleſs to enlarge upon thoſe ſeveral Adver<g ref="char:EOLhyphen"/>ſaries, who ſet themſelves in oppoſition to, and are the profeſs'd Enemies of <hi>that Faith which was once delivered to the Saints.</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 4.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>ngodly Men</hi> (as our Apoſtle ſpeaks) who either <hi>turn the Grace of our God into Laſciviouſneſs,</hi> or poſitively <hi>deny the only Lord God, and our Lord Jeſus Christ,</hi> even <hi>who deny the Lord that bought 'em.</hi>
+               <note place="margin">2 Pet. 2.1.</note> But we are obliged to obſerve,</p>
+            <p>Firſt, That when the Apoſtle exhorts us, to <hi>contend earneſtly</hi> for the Faith, there are neceſſa<g ref="char:EOLhyphen"/>rily imply'd ſome Perſons who will be conſtantly gainſaying and oppoſing it, ſome Adverſaries which we are to encounter and conflict withal: Which being conſider'd, we ſhall be naturally led in the</p>
+            <p>Second place to enquire how, and after what manner we are to deal with theſe Adverſaries, and what peculiar Weapons we are to make uſe of, whilſt we endeavour earneſtly to <hi>contend</hi> for the <hi>Faith.</hi> And then, leſt any one ſhould be diſ<g ref="char:EOLhyphen"/>couraged in the diſcharge of his Duty, by the
+<pb n="5" facs="tcp:49775:6"/> greatneſs of the Work, or the many Difficulties which he is to encounter, it will be requiſite in the</p>
+            <p>Third place, to ſhew what mighty Encourage<g ref="char:EOLhyphen"/>ments we have to perſwade us to a conſtant per<g ref="char:EOLhyphen"/>ſeverance in our Chriſtian Warfare, what bleſ<g ref="char:EOLhyphen"/>ſed Aſſiſtances are offered to us, and what glorious Rewards they ſhall be Crowned withal, who <hi>ſight the good Fight,</hi> and do inviolably <hi>keep the Faith.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> We are obliged to obſerve, that when the Apoſtle exhorts us to <hi>contend earneſtly</hi> for the Faith, there are neceſſarily implied ſome Perſons who will be conſtantly gainſaying and oppoſing it; ſome Adverſaries which we are to encounter, and conflict withal. A Conſideration, as melan<g ref="char:EOLhyphen"/>choly as 'tis ſerious, and every way as ſad as it is true. To be either Perſecuted, ſingled out for Deſtruction, or at leaſt ſlighted, and laugh'd at, hath (in ſome meaſure) been the Portion of the true Profeſſors of the Faith, in all Ages of the Church: And to be mock'd at, and derided, ſeem<g ref="char:EOLhyphen"/>ed to make up part of the Character of a <hi>Believer</hi> in the Infancy of Chriſtianity. Nay, we may go further, even to the Fountain Head, and we ſhall find that the very Author of our Faith him<g ref="char:EOLhyphen"/>ſelf, the <hi>Bleſſed Jeſus,</hi> met with the ſame Uſage: No ſooner had he left that humble Retirement, in which he paſt the firſt Thirty Years of his Life, to enter publickly upon his Prophetick Office, but that <hi>Divine Charmer, who ſo ſpake, as never Man
+<pb n="6" facs="tcp:49775:7"/> ſpake,</hi> met with ſuch as contradicted, and oppoſed him; the proud, haughty Phariſee thought him<g ref="char:EOLhyphen"/>ſelf too great to liſten to the Doctrines of Meek<g ref="char:EOLhyphen"/>neſs and Humility, and being big with an expecta<g ref="char:EOLhyphen"/>tion of a glorious Meſſiah, a Temporal Prince, who ſhould reſcue their Nation from the <hi>Roman</hi> Yoak, could not diſcern a <hi>Deliverer,</hi> under the appearance of a Carpenter's Son, nor imagine it poſſible, that he ſhould redeem <hi>Iſrael,</hi> whoſe Con<g ref="char:EOLhyphen"/>dition was ſo low, mean and deſpicable, that, (ac<g ref="char:EOLhyphen"/>cording to his own Expreſſion) <hi>he had not where to lay his Head.</hi> The proud Inſulter would not ſee the Finger of the Almighty in thoſe daily Mira<g ref="char:EOLhyphen"/>cles which he wrought, nor confeſs him to be <hi>the Son of God with power,</hi> though the Glories of his Divinity were viſibly diſplay'd in all his wondrous Works: But ſtill is the <hi>Holy Jeſus</hi> ſcoffed at, and derided, and in an impudent manner taunted at, <hi>Is not this the Carpenter, the Son of Mary?</hi> And when they found that many of the People (con<g ref="char:EOLhyphen"/>vinc'd by his mighty Works) began to adhere to, and embrace his Doctrines, leſt their beloved <hi>Moſes</hi> ſhould be brought into diſrepute, they re<g ref="char:EOLhyphen"/>ſolve to Perſecute both him and them, and <hi>La<g ref="char:EOLhyphen"/>zarus</hi> was deſign'd to be put to Death, becauſe that by <hi>reaſon of him (i. e.</hi> his being miraculouſly raiſed from the dead) <hi>many of the Jews went away,</hi>
+               <note place="margin">John 12.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 11.</note> 
+               <hi>and believed on Jeſus.</hi> Nor did their Malice admit of any Abatement, 'till they had nailed him to the Curſed Tree, and ſee him there expire, and die; when his Doctrines, they thought, would have died with him, and the Faith of Jeſus, they
+<pb n="7" facs="tcp:49775:7"/> hoped, would have been heard of no more.</p>
+            <p>And ſince his Uſage was thus very hard and ſevere, it could not afterwards be expected that the Diſciple <hi>ſhould be above,</hi>
+               <note place="margin">Mat. 10.24.</note> or fare better than <hi>his Maſter, nor the Servant above his Lord;</hi> and when the Apoſtles were ſent out upon that weighty Bu<g ref="char:EOLhyphen"/>ſineſs, <hi>viz.</hi> to publiſh the ſame Goſpel which Jeſus had Preach'd,<note place="margin">Mat. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.22.</note> no wonder if <hi>they ſhould be ha<g ref="char:EOLhyphen"/>ted of all Men for his name ſake.</hi> And indeed thus it prov'd, for when the Chriſtian Doctrine <hi>revived,</hi> and <hi>roſe again</hi> with it's Bleſſed Author, it no ſoon<g ref="char:EOLhyphen"/>er made its publick Appearance in the World, but it was as publickly contradicted and oppos'd. That Doctrine which was ſo repugnant to thoſe Noti<g ref="char:EOLhyphen"/>ons, and Prejudices which had been generally en<g ref="char:EOLhyphen"/>tertained, could not undoubtedly without a great deal of difficulty, make its way into the Hearts of Men, and be received as a Rule of Faith. That Doctrine, the embracing of which at that time, tended to the leſſening Mens ſecular Intereſt, and Advantage, would aſſuredly meet with a great many Enemies; and 'tis not much to be admired, if, not only the <hi>Epheſian Silverſmiths</hi> ſhould be againſt it,<note place="margin">Acts 19.</note> 
+               <hi>whoſe Craft was in danger to be ruined and ſet at nought,</hi> but every Man likewiſe elſe<g ref="char:EOLhyphen"/>where, whoſe Intereſt it threatned to diminiſh, would make a Party againſt it, and raiſe a Body of Adverſaries to oppoſe it: And when the Rage of ſuch a Man as <hi>Herod</hi> had urged him to <hi>kill James the Brother of John with the Sword,</hi>
+               <note place="margin">Acts 12 1, 2, 3.</note> it was eaſie to imagine, that he who loved popular Applauſe, and prided himſelf in the Acclamations of the
+<pb n="8" facs="tcp:49775:8"/> Crowd, ſhould <hi>(when he ſaw it pleaſed the Jews)</hi> proceed further, not only <hi>to take Peter alſo,</hi> but lay violent Hands upon all the Preachers of the Goſpel, and vex the whole Church.</p>
+            <p>I need not <hi>in this place,</hi> for I conſider before whom I ſpeak, I need not <hi>here</hi> proceed to the next Ages conſequent to that of the Apoſtles, and lay before you a large Catalogue of that <hi>noble Army of Martyrs,</hi> who ſuffered for the ſake of Chriſt, du<g ref="char:EOLhyphen"/>ring thoſe ſeveral Perſecutions which ſucceſſively raged, and laid waſte the Church of God. I need not lay before you an account of thoſe ſeveral Kings and Emperors, under whom the Faithful Servants of the <hi>Bleſſed Jeſus</hi> choſe rather to ſuffer Afflictions with the People of God, than deny their Maſter, and deſert their Saviour; who <hi>were tortured, not accepting deliverance;</hi> who had Trials of cruel Mockings and Scourgings, yea moreover of Bonds and Impriſonment, and yet amidſt all their Troubles and Afflictions, <hi>ſhowed themſelves more than Conquerours through him that loved them.</hi>
+            </p>
+            <p>'Twould be needleſs to carry your Eyes back<g ref="char:EOLhyphen"/>ward to thoſe Times, when to embrace the Do<g ref="char:EOLhyphen"/>ctrine of our Lord, and to follow him was the ſure and ready way to <hi>take up the Croſs</hi> in <hi>a literal Senſe,</hi> when he that would live the Life of a Chri<g ref="char:EOLhyphen"/>ſtian, muſt expect to die the ſame Death with his Maſter: Theſe things are ſufficiently known, and evident to any Man who hath but look'd into the Hiſtory of the Church. It is very true, will ſome Men be apt to ſay, <q>There is no doubt to
+<pb n="9" facs="tcp:49775:8"/> be made, but the firſt Planters and Publiſhers of the Goſpel met with very great Oppoſition, and both they and their Followers, in the firſt Ages of the Church, were very ſeverely and cruelly handled; and their adhering to the Chriſtian Religion did hourly expoſe them to the ha<g ref="char:EOLhyphen"/>zard of their Lives. But what then? We are now quiet, and at eaſe, and the Exhortation which the Apoſtle gives in the Text, to <hi>contend earneſtly</hi> for the Faith, hath no place at all amongſt us; the Chriſtian Faith (ſay they) is now not only generally receiv'd, and the Goſpel quietly enjoy'd, but Kings themſelves are become the <hi>Nurſing Fathers</hi> of the Church, and Queens its <hi>Nurſing Mothers:</hi> That Vine which God's own right Hand hath planted hath now <hi>taken Root,</hi> and <hi>filled the Land,</hi> and every one hath the Li<g ref="char:EOLhyphen"/>berty, and the bleſſed Opportunities of <hi>ſetting under its Shadow with great delight.</hi>
+               </q>
+            </p>
+            <p>Is it ſo then? If the <hi>Amalekites,</hi> with all that belong'd to 'em, be utterly deſtroy'd, what means the bleating of the Sheep, and the lowing of the Oxen which we hear? If the Chriſtian Profeſſion be ſo quietly and ſecurely ſettled, if <hi>that Faith which was once delivered to the Saints</hi> be ſo generally received and embraced, that the Profeſſors of it have no occaſion to ſtrive and contend for it, what mean all our Sects and Diviſions? What means that open, that barefac'd oppoſition which is daily made? What ſhould be the reaſon, that, inſtead of believing, and <hi>without Controverſie</hi> aſſenting to the <hi>great Myſteries of Godlineſs,</hi> we meet with Men
+<pb n="10" facs="tcp:49775:9"/> now adays who can in one breath reject all the My<g ref="char:EOLhyphen"/>ſteries of the Goſpel? And theſe Men, whoſe Un<g ref="char:EOLhyphen"/>ſtandings are not look'd upon as of a low, incon<g ref="char:EOLhyphen"/>ſiderable Size, but ſuch as pretend to the moſt ex<g ref="char:EOLhyphen"/>traordinary Parts, the moſt refined and ſubtle Wits; ſuch, as, if it be true that the <hi>Gnoſticks,</hi> (thoſe Hereticks who in the firſt Ages of Chriſti<g ref="char:EOLhyphen"/>anity infeſted the Church of God) had their Name given 'em from their pretenſions to great and ex<g ref="char:EOLhyphen"/>traordinary Knowledge, may come under the ſame denomination with them. If Chriſtianity be ſet<g ref="char:EOLhyphen"/>led upon ſo ſure a Foundation, how comes it to paſs that theſe Men ſhould not <hi>bluſh</hi> at what they do, eſpecially if it be conſider'd, that our <hi>most holy Faith</hi> being guarded and protected by the Circum<g ref="char:EOLhyphen"/>vallation of humane Laws, thoſe Men who in a <hi>Chriſtian Country</hi> dare openly write againſt, and oppoſe the <hi>Chriſtian Religion,</hi> are guilty of an in<g ref="char:EOLhyphen"/>ſtance of the higheſt Impudence to aggravate their Crime, and come into the number of thoſe whom our Apoſtle here ſpeaks of, who <hi>deſpiſe Dominion, and ſpeak evil of Dignities.</hi>
+            </p>
+            <p>If the Faith of Chriſt, if his Goſpel be ſo gene<g ref="char:EOLhyphen"/>rally, ſo univerſally receiv'd amongſt us, what mean all theſe late pretenſions to <hi>new Light,</hi> and immediate Inſpiration? What do they mean who go about to perſwade the World, That all thoſe Expreſſions of Scripture which relate to the Incar<g ref="char:EOLhyphen"/>nation, the Birth, the Death, and Reſurrection of the Bleſſed Jeſus, are to be underſtood in a meta<g ref="char:EOLhyphen"/>phorical and figurative Senſe? Who inſtead of modeſtly and devoutly receiving the holy Scriptures
+<pb n="11" facs="tcp:49775:9"/> as the only Rule both of their Faith and Practice, ſhall impiouſly, nay blaſphemouſly, call it a <hi>dead Letter,</hi> by this means overthrowing the Authority of the whole written Word of God, perverting one of the great deſigns of our Saviour's coming into the World, and overturning the whole buſi<g ref="char:EOLhyphen"/>neſs of his Prophetick Office. For to what pur<g ref="char:EOLhyphen"/>poſe ſhould <hi>the Son of God</hi> take upon him our Na<g ref="char:EOLhyphen"/>ture, and come into the World to be our great Lawgiver, when he might through all ſucceeding Ages have inſtructed his People by the Voice of the Spirit within 'em: I ſay, to what purpoſe ſhould he do this, if he did not deſign that the Goſpel ſhould be a ſtanding, perpetual Rule to his Follow<g ref="char:EOLhyphen"/>ers? if he did not intend that when this ſubſtance of the Faith was once delivered to the Saints, the Saints ſhould not only thankfully embrace it, but moſt <hi>earneſtly contend for it?</hi>
+            </p>
+            <p>If the Goſpel be received, and its Doctrines ſo generally embrac'd, what mean all theſe Fruits of Unrighteouſneſs, of which every day produces ſo plentiful an Harveſt? Whence comes that Atheiſm and Infidelity which hath overſpread ſo great a part of this Nation? Why are our Ears ſo un<g ref="char:EOLhyphen"/>gratefully filled with Swearing and Curſing? Why is the ſacred, the tremendous Name of God blaſ<g ref="char:EOLhyphen"/>phemed? why are his Sabbaths unhallow'd? why are the Feſtivals of the Church ſlighted and diſre<g ref="char:EOLhyphen"/>garded, and the moſt ſolemn Ordinances neglected and contemn'd, even by thoſe very Men who at the ſame time call themſelves by the name of Chriſt? Have we no Enemies to encounter? Is
+<pb n="12" facs="tcp:49775:10"/> the Faith ſo ſecurely ſetled, that we have no occa<g ref="char:EOLhyphen"/>ſion to <hi>contend for it?</hi> Moſt aſſuredly when our Adverſaries appear ſo open and barefaced on the one hand, and thoſe who call themſelves our Friends (but falſly ſo called) on the other hand, ſhall by their wicked Lives, their horrid and im<g ref="char:EOLhyphen"/>pious Practiſes, give occaſion to the Enemies of the Lord to blaſpheme. I ſay, whilſt Matters ſtand thus, we have the higheſt reaſon to be upon our Guard, to be always in a readineſs and a po<g ref="char:EOLhyphen"/>ſture of defence, and whilſt we fight in our Ma<g ref="char:EOLhyphen"/>ſter's cauſe,<note place="margin">1 Cor 16.13.</note> 
+               <hi>to quit our ſelves like Men.</hi> Proceed we now in the</p>
+            <p>Second place, to enquire how and after what manner we are to deal with theſe Adverſaries, and what ſort of Weapons we are to make uſe of, whilſt we endeavour earneſtly to <hi>contend for the Faith.</hi>
+            </p>
+            <p>And here be pleaſed, in the firſt place, to give me leave to look back a little upon the firſt Ages of the Church, thoſe diſmal Times of Heat and Perſecution, and ſee how the Profeſſours of Chri<g ref="char:EOLhyphen"/>ſtianity then contended; for though (bleſſed be our moſt merciful and indulgent God) we do at preſent enjoy a great meaſure of Peace and Tran<g ref="char:EOLhyphen"/>quillity, though our Church Doors are now always open, and the pious Votary hath a ready admiſ<g ref="char:EOLhyphen"/>ſion to the Throne of Grace; yet who knows what ſevere Judgments and Calamities, our many crying Sins may provoke the juſt Governour of the World to bring upon us; and ſhould we ever be in their Condition we are to follow their Example,
+<pb n="13" facs="tcp:49775:10"/> and <hi>contend for the Faith,</hi> as they did; look back upon the firſt Martyrs and Confeſſours, and in perilous Times you ſhall find them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>earneſtly ſtriving and contend<g ref="char:EOLhyphen"/>ing for the Faith,</hi> in the utmoſt ſtretch of the words, reſolved to hold it faſt, and keep it inviolable even to the end. 'Tis very plain that the Apoſtle here, as likewiſe St. <hi>Paul</hi> in ſeveral of his Epiſtles, al<g ref="char:EOLhyphen"/>ludes to thoſe ancient Games, and Exerciſes in uſe amongſt the <hi>Greeks,</hi> and particularly here to that of running a Race, wherein the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Reward of the Conqueror was ſet at the end, over the Goal; and the pious ſuffering Chriſtian may here be conſider'd at the approaches of the laſt ſolemn hour, preſſing forward toward the prize of his high Calling, come (as it were) with<g ref="char:EOLhyphen"/>in fight of the Goal, fully reſolv'd (notwithſtand<g ref="char:EOLhyphen"/>ing the Conflicts and Fatigues which he under<g ref="char:EOLhyphen"/>goes) not to ſlack his pace, or be diverted by any thing that may <hi>court</hi> him in his way. He preſſes forward, and endeavours to graſp that Crown of Glory which ſtands in view, though tortured will not accept of Deliverance, nor quit his Maſter's Service to gain inglorious Eaſe: He relies upon the ſure word of Promiſe,<note place="margin">Job 27.5.</note> 
+               <hi>and till he die will not remove his Innocence and Integrity from him.</hi> And ſhould it pleaſe God to draw a Cloud of Perſecution over his Church again, it is our Duty (I ſay) to fol<g ref="char:EOLhyphen"/>low the ſteps of thoſe pious Confeſſours, to main<g ref="char:EOLhyphen"/>tain our Innocence even to the Death, to ſtrive ear<g ref="char:EOLhyphen"/>neſtly for the Faith; and whilſt we keep our Eye upon the promiſed Reward, the unſpeakable Glo<g ref="char:EOLhyphen"/>ries
+<pb n="14" facs="tcp:49775:11"/> of the other Life, to poſſeſs our Souls in Pa<g ref="char:EOLhyphen"/>tience, to be eaſie, and contented too, <hi>through much tribulation to enter into the Kingdom of God.</hi> A truly pious and couragious Chriſtian, <hi>who is ſtrong in the Lord, and in the power of his might,</hi> will conſider, that though he be cruelly uſed, yet 'tis for the ſake of his Maſter, and thinks it but <hi>reaſonable</hi> to lay down his Life for <hi>his</hi> ſake, who died for him, he will not value the troubles or in<g ref="char:EOLhyphen"/>conveniences of <hi>the Wilderneſs,</hi> ſo long as <hi>Canaan,</hi> the Land flowing with Milk and Honey, ſtands in view at his Journey's end. But then,</p>
+            <p>Secondly, Let us ſee how we are to deal with, and <hi>contend</hi> with thoſe other Adverſaries which we have been ſpeaking of, in Times leſs perilous, and hard; and here we may conſider our ſelves, ei<g ref="char:EOLhyphen"/>ther,</p>
+            <p>Firſt, As private Men, of ordinary Capacities, and endued with a moderate ſhare of Underſtand<g ref="char:EOLhyphen"/>ing: Or,</p>
+            <p>Secondly, As Perſons peculiarly ſet apart for the Service of God, endued with more than ordinary Abilities, and whole buſineſs conſequently it is to ſtand up vigorouſly for the Cauſe of God and Re<g ref="char:EOLhyphen"/>ligion: Or,</p>
+            <p>Thirdly, As Magiſtrates, God's Vicegerents up<g ref="char:EOLhyphen"/>on Earth, to whom is intruſted the Management of the Sword of Juſtice.</p>
+            <p>Firſt, Conſider we how we are to deal and con<g ref="char:EOLhyphen"/>tend with the Enemies of the Faith of Chriſt, ſup<g ref="char:EOLhyphen"/>poſing
+<pb n="15" facs="tcp:49775:11"/> our ſelves private Men, of very ordinary Capacities, and endued with but a moderate ſhare of Underſtanding.</p>
+            <p>Now here we are to conſider our ſelves as ſuch, whoſe Converſation (generally ſpeaking) lies a<g ref="char:EOLhyphen"/>mong Men of the ſame Rank and Size with our ſelves, but yet by reaſon of the number of thoſe with whom we converſe, we muſt have to do with Men of different Principles, and different Lives. Take we therefore care to be diligent, and frequent in reading the Holy Scriptures, conſult<g ref="char:EOLhyphen"/>ing the Oracles of God, and by this means furniſh<g ref="char:EOLhyphen"/>ing our ſelves with all ſaving Knowledge, and en<g ref="char:EOLhyphen"/>riching our Souls with that Wiſdom which is from above; and if any thing of difficulty doth occur, any thing too knotty for us to reſolve, our moſt holy Church hath provided us Spiritual Teachers, who are of Abilities to inform and di<g ref="char:EOLhyphen"/>rect us, and to whom in theſe Caſes we are obliged to repair: By this means we ſhall arm and ſecure our ſelves from that Poiſon, which doth often in<g ref="char:EOLhyphen"/>ſenſibly ſteal into us from a mix'd Converſation; evermore obſerving that we put in practiſe what we read, and take care that our <hi>Converſation be ſuch as becomes the Goſpel of Christ,</hi> that by a truly pious exemplary Life, we endeavour <hi>to adorn the Doctrine of God our Saviour in all things:</hi> Thus ſhall we influence not only our Children, and Ser<g ref="char:EOLhyphen"/>vants, and thoſe who belong to our Family, but probably bring others over by our good Example; thus ſhall we encreaſe our Numbers, and double our Forces againſt our Adverſaries, whilſt we
+<pb n="16" facs="tcp:49775:12"/> take care by a conſtant perſeverance in Holineſs to perform all thoſe neceſſary Duties, which are made the indiſpenſable Conditions of our Salva<g ref="char:EOLhyphen"/>tion, whilſt we let others ſee that we really are what we outwardly pretend to, <hi>viz.</hi> the Ser<g ref="char:EOLhyphen"/>vants and Diſciples of the Holy and Immaculate Jeſus; this, I ſay, will be a means to encreaſe our numbers, and conſequently leſſen and weaken the contrary Party, by bringing Deſerters over to our ſide.</p>
+            <p>Secondly, Conſider we how we are to deal with our Adverſaries, and <hi>contend for the Faith,</hi> ſuppo<g ref="char:EOLhyphen"/>ſing our ſelves Perſons peculiarly ſet apart for the Service of God, furniſh'd with more than ordinary Abilities, and whole buſineſs it is to ſtand up for the Cauſe of God and Religion.</p>
+            <p>Whoſe <hi>Buſineſs</hi> I ſay it is; it is our Calling, our Profeſſion; the promoting the Honour of God, and the Intereſt of Religion, is the one great Work which is to take up all our Care, and be the Sub<g ref="char:EOLhyphen"/>ject of our conſtant Endeavours.</p>
+            <p>Firſt then let us ſee in the General, how we are to contend with thoſe who practically deny the Faith, and live in conſtant oppoſition to thoſe Laws which the Son of God hath been pleaſed to preſcribe: Theſe Men are to be ſharply dealt with, and we are to ſhow 'em the Terrors of the Lord, and not any way deſiſt from our Duty, though it muſt be confeſs'd, that to reclaim a ſtubborn and obdurate World, is a Work which is attended with a <pb n="17" facs="tcp:49775:12"/> great deal of Difficulty and Hardſhip. To tell a Man of his Faults, and diſcover to him his Miſ<g ref="char:EOLhyphen"/>carriages doth very often prove an unthankful Office; to lay open his Follies, and at the ſame time rebuke him ſharply for 'em too, may very likely make him uneaſie; 'tis like touching a Man to the quick, and probing a Wound to the very bottom: But what then? why ſhould the Skilful Chirurgeon be concern'd, or diſmay'd at the un<g ref="char:EOLhyphen"/>eaſineſs of the Patient, when he is ſure that what he doth is out of an honeſt deſign, and that he acts only in order to a Cure? And why ſhould the Miniſters of the Word be frighted from their Duty, becauſe the peeviſh World are uneaſie when they tell 'em the Truth, ſo long as they are ſatis<g ref="char:EOLhyphen"/>fied in their Conſciences that they act upon a good Principle, and endeavour as much as in them lies to promote the Eternal Intereſt, Health and Salvation of Mankind. 'Tis our Duty to be bold and daring in a good Work, and not ſneak<g ref="char:EOLhyphen"/>ingly ſtifle a Reproof, when it may be <hi>ſeaſonably</hi> given, out of a fear to diſpleaſe another, and put him out of Temper, when at the ſame time we are aſſured that 'tis our Duty to Rebuke him ſharply?</p>
+            <p>Secondly, As we are thus to reprove, and <hi>re<g ref="char:EOLhyphen"/>buke with all Authority</hi> in our Exhortations, ſo are we likewiſe to do it in our Practice, and let others ſee that we are aſhamed of all thoſe abominable Practiſes which they every day repeat. We are to ſhow the World that our Faith is a practical one,
+<pb n="18" facs="tcp:49775:13"/> continually producing the Fruits of Righteouſ<g ref="char:EOLhyphen"/>neſs, and diſcovering it ſelf in all holy Converſa<g ref="char:EOLhyphen"/>tion and Godlineſs; that our chief Endeavour is to be like our great High Prieſt, Holy, Harmleſs, Undefiled; that our main deſign is to ſhine like ſo many Lights in the midſt of a crooked and perverſe Generation, and to keep our ſelves un<g ref="char:EOLhyphen"/>ſpotted from the World. This is an effectual, convincing way of Preaching, when we not only inſtruct others how they ought to walk, but viſi<g ref="char:EOLhyphen"/>bly ſet a Copy before their Eyes for them to Tran<g ref="char:EOLhyphen"/>ſcribe; and who knows but many of thoſe Men may be won over by a good Example, whom a poſitive Precept will not work upon. What a mighty Force! what an <hi>almost irreſiſtable</hi> byaſs doth a good Example lay upon the Minds and Actions of others! This carries not only Light, but Heat with it too; for a truly pious Zeal for God and Religion will kindly diſpenſe its warmth to all that come within reach of it. But then,</p>
+            <p>Thirdly, To be more particular, there is ano<g ref="char:EOLhyphen"/>ther ſort of Adverſaries, who are not content to be wicked in their Practiſes, but are (if I may ſo ſpeak) debauch'd in their Faith, and Principles: And with theſe Men <hi>they</hi> are particularly concern<g ref="char:EOLhyphen"/>ed to deal, whom the Holy Ghoſt hath made Overſeers of that Flock, which the Son of God hath purchas'd with his own Blood: They are timely to forewarn thoſe who are committed to their Charge, of theſe ſorts of ungodly Men, who by falſe Gloſſes, and forc'd Interpretations of
+<pb n="19" facs="tcp:49775:13"/> the Text, wreſt the Scriptures to their own and others Deſtruction: For theſe Men are not ſatis<g ref="char:EOLhyphen"/>fied in being deceived themſelves, but have the boldneſs to ſpread their Errours, openly proclaim defiance to all the Myſteries of the Goſpel, pub<g ref="char:EOLhyphen"/>lickly oppoſe <hi>that Faith, which was once delivered to the Saints;</hi> and by publiſhing their Notions to the World, ſlily inſinuate, that they have reaſon on their ſide: Thus whilſt by cunning Craftineſs they lie in wait to deceive, they <hi>catch the igno<g ref="char:EOLhyphen"/>rant and unſtable,</hi> who are convinc'd often by a ſhew of Argument, and have not Genius enough to diſtinguiſh between a <hi>colour of Reaſon,</hi> and a Demonſtration. Theſe are Wolves, which in conſiderable numbers have lately crept into the Flock, and are indeed Enemies of a very dange<g ref="char:EOLhyphen"/>rous kind; and therefore it behoves us earneſtly to contend, and as publickly oppoſe, and confute their Errours as they dare to Print 'em: To diſ<g ref="char:EOLhyphen"/>cover the Trick, and Sophiſtry which they uſe in the Management of their Arguments, not ſuffer them by any falſe Interpolations to add to, nor by any falſe Pretenſions from the Authority of this, or that ancient Copy to diminiſh from the Text. We are to take care that they do not impoſe upon the World by any falſe Citations out of the Primitive Fathers, or by miſquoting any other an<g ref="char:EOLhyphen"/>tient Authors, and ſo make the World believe, that the Doctrine of the Church in former times was conſonant to what they teach. This is our Buſineſs, this ought to be the Fruit, and reſult of that ſtudious ſedentary Life, to which we are
+<pb n="20" facs="tcp:49775:14"/> deſign'd. By this means we ſhall not only be able to confute thoſe Hereſies which at preſent infeſt the Church, but prudently provide againſt any that may be broach'd hereafter. This, I ſay, is our Bu<g ref="char:EOLhyphen"/>ſineſs, thus are we to <hi>contend earneſtly for the Faith;</hi> and give me leave to add, that we are under one of the ſtricteſt Obligations imaginable ſo to do, no leſs than a ſolemn Vow and Promiſe before God, in the Preſence of ſome one, or other, of the Reve<g ref="char:EOLhyphen"/>rend Fathers of the Church at our ſolemn Ordi<g ref="char:EOLhyphen"/>nation; they who are admitted to the loweſt De<g ref="char:EOLhyphen"/>gree of the Miniſtry to the Office of Deacons, do promiſe,<note place="margin">Office for the Ordaining of Deacons.</note> 
+               <hi>That they will apply all their Diligence to frame their own Lives, and the Lives of their Families according to the Doctrine of Chriſt, and make both themſelves and them wholeſome Examples of the Flock of Christ.</hi> And when afterwards they are advanced to the Dignity of the Prieſthood, they engage themſelves to be <hi>ready with all faithful Diligence,</hi>
+               <note place="margin">Ordination of Prieſts.</note> 
+               <hi>to baniſh and drive away all erroneous and ſtrange Doctrines which are contrary to the Word of God.</hi> But,</p>
+            <p>Thirdly, How thoſe that are Magiſtrates are to <hi>contend for the Faith;</hi> how they to whom the Sword of Juſtice is entruſted, are to deal with theſe Adverſaries of God and Religion, the Time will not admit me to enlarge upon, but give me leave to ſay thus much, That they are obliged to take care that they bear not the Sword in vain. There are ſome ſort of Weeds ſpringing up even in the <hi>Garden of the Lord,</hi> the Church of Chriſt, which
+<pb n="21" facs="tcp:49775:14"/> cannot be cut down, or at leaſt not totally rooted out, without the aſſiſtance of the Civil Power, and therefore it is to be hoped (eſpecially conſi<g ref="char:EOLhyphen"/>dering before whom I ſpeak) that whenever ſuch aſſiſtance ſhall be deſired it will be as readily granted. There are a ſort of bold, obſtinate Wretches who ſeem to have made a Covenant with Sin and Death, who are Reprobate concerning the Faith, who are poſitively reſolved to ſhut their Ears againſt all Advice that may be offer'd, who will not give themſelves leiſure to reflect, nor are ever cool enough for a ſerious, <hi>Morning</hi> Thought, theſe muſt be given over to the Management of the Civil Power; and as on the one hand, in the Adminiſtration of Juſtice and Diſcipline, we are not altogether to forget Mercy; ſo on the other ſide, when we are inclined to be favourable, we muſt take care to be ſo favourable as not to be too remiſs.</p>
+            <p>And now having already ſaid thus much, I have prevented my ſelf from enlarging upon the Third Head, <hi>viz.</hi> to ſhow what mighty Encourage<g ref="char:EOLhyphen"/>ments we have to perſwade us to a conſtant Per<g ref="char:EOLhyphen"/>ſeverance in our Chriſtian Warfare, what bleſſed Aſſiſtances are offer'd to us, and what glorious Re<g ref="char:EOLhyphen"/>wards we ſhall be Crowned withal, if we fight the good Fight, and do inviolably keep the Faith. But no one ſurely can doubt, but that God who in the performance of all our Religious Duties hath promiſed us the bleſſed Aſſiſtances of his moſt Holy Spirit, who hath promiſed that in all our Afflicti<g ref="char:EOLhyphen"/>ons,
+<pb n="22" facs="tcp:49775:15"/> and Temptations, his Grace ſhall be ſufficient for us, will likewiſe more particularly aſſiſt, and ſupport us whilſt we are fighting the Lord's Battles, and couragiouſly ſtanding up for his Cauſe. And as we are aſſured that none of all our Labours ſhall be in vain in the Lord, ſo undoubtedly the <hi>brightest Coronets of Glory</hi> ſhall be reſerved for them, who after a mighty conflict with all their potent Ad<g ref="char:EOLhyphen"/>verſaries come off Glorious and Triumphant. To him th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t overcometh (ſaith the Bleſſed Jeſus) will I grant to ſit with me in my Throne, even as I overcame, and am ſet down with my Father in his Throne <hi>Amen. Hallelujah.</hi>
+            </p>
+            <p>Now unto him that is able to keep you from falling, and to preſerve you faultleſs before the Preſence of his Glory, with exceeding Joy, to the only wiſe God our Saviour, be Glory and Majeſty, Dominion and Power, both now and for ever.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49775:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
